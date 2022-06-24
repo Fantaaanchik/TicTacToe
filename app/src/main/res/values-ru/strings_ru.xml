@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="play">Играть</string>
+
+    <string name="Title">Введите своё имя:</string>
+    <string name="label1">Игрок 1</string>
+    <string name="label2">Игрок 2</string>
+    <string name="submitButton">Подтвердить имена</string>
+    <string name="nameHint">Введите своё имя:</string>
+
+    <string name="playAgainButton">Играть заново</string>
+    <string name="homeButton">Домой</string>
+</resources>
